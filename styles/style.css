@@ -22,7 +22,6 @@ body {
 
 .header {
     padding: 2% 0% 0% 15%;
-    margin: 0% 10%;
 }
 
 .header__menu{
@@ -125,6 +124,7 @@ body {
 
 @media (max-width: 1200px) {
     .header{
+        margin: 0% 10%;
         padding: 10%;
     }
 
